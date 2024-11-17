@@ -51,7 +51,5 @@ uvicorn main:app --reload
 
 6. **Access the API**
 The application will be available at:
-
 API Docs: http://127.0.0.1:8000/docs
-
 Redoc: http://127.0.0.1:8000/redoc
